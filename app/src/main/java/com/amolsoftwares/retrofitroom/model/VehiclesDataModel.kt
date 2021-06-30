@@ -13,7 +13,7 @@ data class Result(
     val ManufacturerId: Int,
     val ManufacturerName: String,
     val ModelYearFrom: Int,
-    val ModelYearTo: Any,
+    val ModelYearTo: Int,
     val Name: String,
     val Type: String,
     val URL: String
